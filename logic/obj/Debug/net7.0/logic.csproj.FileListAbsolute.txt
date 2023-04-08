@@ -1,0 +1,12 @@
+C:\Users\Diana\Programmieren\snowman\melting-snowman-DianaS315\logic\bin\Debug\net7.0\logic.deps.json
+C:\Users\Diana\Programmieren\snowman\melting-snowman-DianaS315\logic\bin\Debug\net7.0\logic.dll
+C:\Users\Diana\Programmieren\snowman\melting-snowman-DianaS315\logic\bin\Debug\net7.0\logic.pdb
+C:\Users\Diana\Programmieren\snowman\melting-snowman-DianaS315\logic\obj\Debug\net7.0\logic.csproj.AssemblyReference.cache
+C:\Users\Diana\Programmieren\snowman\melting-snowman-DianaS315\logic\obj\Debug\net7.0\logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diana\Programmieren\snowman\melting-snowman-DianaS315\logic\obj\Debug\net7.0\logic.AssemblyInfoInputs.cache
+C:\Users\Diana\Programmieren\snowman\melting-snowman-DianaS315\logic\obj\Debug\net7.0\logic.AssemblyInfo.cs
+C:\Users\Diana\Programmieren\snowman\melting-snowman-DianaS315\logic\obj\Debug\net7.0\logic.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Programmieren\snowman\melting-snowman-DianaS315\logic\obj\Debug\net7.0\logic.dll
+C:\Users\Diana\Programmieren\snowman\melting-snowman-DianaS315\logic\obj\Debug\net7.0\refint\logic.dll
+C:\Users\Diana\Programmieren\snowman\melting-snowman-DianaS315\logic\obj\Debug\net7.0\logic.pdb
+C:\Users\Diana\Programmieren\snowman\melting-snowman-DianaS315\logic\obj\Debug\net7.0\ref\logic.dll

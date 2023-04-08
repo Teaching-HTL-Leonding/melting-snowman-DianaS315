@@ -1,0 +1,14 @@
+GET http://localhost:5024/games
+
+###
+
+GET http://localhost:5024/games/1
+
+###
+
+POST http://localhost:5024/games/1
+Content-Type: application/json
+
+{
+"guessedLetter": "s"
+}
